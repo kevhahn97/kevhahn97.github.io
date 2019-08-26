@@ -1,7 +1,7 @@
 # Site
-title:              '불휘기픈남간'
-bio:                '한승호 (성균관대 소프트웨어학과)'
-description:        "딥러닝을 이용한 한국어 자연어 이해"
+title:              '한승호'
+bio:                '성균관대 소프트웨어학과'
+description:        "한승호 블로그"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
